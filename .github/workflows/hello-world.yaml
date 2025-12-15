@@ -5,6 +5,7 @@ on:
       - '!README.md'
       - '!docs/**'
       - '**.js'
+      - '.github/workflows/hello-world.yaml'
     branches:
       - 'main'
       - 'release/*'
