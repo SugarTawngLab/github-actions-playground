@@ -9,7 +9,7 @@ on:
       - '**.xml'
       
     branches:
-      - 'main'
+
       - 'release/*'
       - '!dev/**'
   pull_request:
