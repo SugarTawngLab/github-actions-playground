@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-console.log("Delete **.js effects in yml files!");
+console.log("Add **.js again effects in yml files!");
