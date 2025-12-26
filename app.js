@@ -1,2 +1,3 @@
 console.log("Hello, World!");
 console.log("Add **.js again effects in yml files!");
+console.log("!main branch added to test negation!");
