@@ -4,7 +4,7 @@ on:
     paths:
       - '!README.md'
       - '!docs/**'
-      - '**.js'
+      - '!**.js'
     branches:
       - 'main'
       - 'release/*'
@@ -14,7 +14,7 @@ on:
     paths:
       - '!README.md'
       - '!docs/**'
-      - '**.js'
+      - '!**.js'
     branches:
       - 'main'
       - 'release/*'
